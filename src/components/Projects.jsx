@@ -14,7 +14,23 @@
       titulo: "Proyecto 3",
       descripcion: "Descripción del proyecto 3",
       tecnologias: ["Angular", "Spring Boot", "MySQL"]
+    },
+    {
+      titulo: "Proyecto 4",
+      descripcion: "Descripción del proyecto 4",
+      tecnologias: ["Angular", "Spring Boot", "MySQL"]
+    },
+    {
+      titulo: "Proyecto 5",
+      descripcion: "Descripción del proyecto 5",
+      tecnologias: ["Angular", "Spring Boot", "MySQL"]
+    },
+    {
+      titulo: "Proyecto 6",
+      descripcion: "Descripción del proyecto 6",
+      tecnologias: ["Angular", "Spring Boot", "MySQL"]
     }
+
   ];
 
   return (

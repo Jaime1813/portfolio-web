@@ -2,14 +2,21 @@
 import Hero from './components/Hero';
 import About from './components/About';
 import Projects from './components/Projects';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+
+console.log('✅ App.jsx se está ejecutando');
 
 function App() {
+  console.log('✅ App se está renderizando');
   return (
     <div>
       <Header />
       <Hero />
       <About />
       <Projects />
+      <Contact />
+      <Footer />
     </div>
   );
 }
